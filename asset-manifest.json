@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CultureLinr-Assignment/static/css/main.4ebb0cac.css",
+    "main.js": "/CultureLinr-Assignment/static/js/main.7521f476.js",
+    "static/js/453.d1ead18a.chunk.js": "/CultureLinr-Assignment/static/js/453.d1ead18a.chunk.js",
+    "index.html": "/CultureLinr-Assignment/index.html",
+    "main.4ebb0cac.css.map": "/CultureLinr-Assignment/static/css/main.4ebb0cac.css.map",
+    "main.7521f476.js.map": "/CultureLinr-Assignment/static/js/main.7521f476.js.map",
+    "453.d1ead18a.chunk.js.map": "/CultureLinr-Assignment/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ebb0cac.css",
+    "static/js/main.7521f476.js"
+  ]
+}
